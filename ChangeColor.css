@@ -1,0 +1,35 @@
+
+.colorDiv{
+   background-color: rgb(105, 101, 101);
+   width: 100vw;
+   height: 100vh;
+   z-index: -1;
+   position: fixed;
+}
+.changeDiv{
+    display: none;
+}
+.btnStyle{
+    padding: 10px;
+    color:white;
+    background-color: rgb(30, 174, 210);
+    font-size: 20px;
+    border-radius: 15px;
+    margin:100px;
+    cursor:pointer;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btn2Style{
+    padding: 10px;
+    color:white;
+    background-color: rgb(236, 79, 6);
+    font-size: 20px;
+    border-radius: 15px;
+    margin:100px;
+    cursor:pointer;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
